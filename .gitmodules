@@ -1,0 +1,3 @@
+[submodule "map-proto"]
+	path = map-proto
+	url = https://github.com/SoeSuNwe/map-proto.git
